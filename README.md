@@ -1,6 +1,6 @@
 # Buble Sort
 
-[![VIDEO](https://i9.ytimg.com/vi_webp/MFNs0aTMK4M/maxresdefault.jpg)](https://www.youtube.com/watch?v=MFNs0aTMK4M)
+[![Video Thumbnail](https://i.ytimg.com/an_webp/MFNs0aTMK4M/mqdefault_6s.webp?du=3000&sqp=CIeqobEG&rs=AOn4CLBpnt7fGRcdkHRZkFAzd2w7pc0WOA)](https://www.youtube.com/watch?v=MFNs0aTMK4M)
 
 
 
