@@ -1,5 +1,4 @@
 # VISUALIZE BUBBLE SORT
 
-<video controls>
-  <source src="buble_sort(2).mp4" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
