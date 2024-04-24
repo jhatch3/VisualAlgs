@@ -1,4 +1,5 @@
 # VISUALIZE BUBBLE SORT
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Video Thumbnail](IMAGES/1.png)](MOVIE/buble_sort(2).mp4)
+
 
