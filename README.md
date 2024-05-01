@@ -7,8 +7,8 @@
 
 ## TO DO
 
-- [] Buble sort draft (commit somthing)
-- [] Reverse a list draft
-- [] clean up both (start with buble)
+- [x] Buble sort draft (commit somthing)
+- [x] Reverse a list draft
+- [...] clean up both (start with buble)
 - [] add more algs different sorting?
   
